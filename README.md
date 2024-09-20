@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @kishanhirani
-- 👀 I’m interesting to do waht excites me which is creating..
-- 🌱 I’m currently learning python,c,java
-- 💞️ I’m looking to collaborate on just about anything
-- 📫 kishanhirani79@gmail.com
+👋 Hi, I’m @kishanhirani.
 
-<!---
-kishanhirani/kishanhirani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m passionate about creating and pursuing projects that inspire me.
+
+🌱 Currently, I’m focused on React Native, Node.js, and the MERN stack.
+
+💞 I’m open to collaborating on various projects.
+
+📫 Feel free to reach out at kishanhirani79@gmail.com.
